@@ -45,7 +45,7 @@ Want your own version you can customize? Follow these steps:
 - GitHub will build and deploy your site
 - Your site will be live at:
   ```
-  https://yourusername.github.io/v-day
+  https://xbarajat.github.io/G-Night/
   ```
   (Replace `yourusername` with your actual GitHub username)
 
